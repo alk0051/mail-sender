@@ -8,7 +8,6 @@ const ContactSchema = new Schema(
       type: String,
       lowercase: true,
       trim: true,
-      unique: true,
       required: true,
     },
     tags: [
