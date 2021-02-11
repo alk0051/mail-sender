@@ -1,0 +1,6 @@
+{
+  "paths": {
+    "@services/*": ["services/*"],
+    "@schemas/*": ["schemas/*"]
+  }
+}
